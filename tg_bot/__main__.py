@@ -143,7 +143,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                                                                        callback_data="help_back".format(bot.username)),
                                                                                    InlineKeyboardButton(text="🧑‍💻My Creator🧑‍💻",
                                                                        url="t.me/A_K_XD0")],
-                                                                                   [InlineKeyboardButton(text="🔥ADD ALIA TO YOUR GROUP🔥",
+                                                                                   [InlineKeyboardButton(text="🔥ADD ALFIA TO YOUR GROUP🔥",
                                                                        url="t.me/{}?startgroup=true".format(bot.username)),
                                                                                    InlineKeyboardButton(text="⚡Source Code⚡",
                                                                        url="https://github.com/LEGENDXOP/GRANDROBOT")
